@@ -1,5 +1,6 @@
 # CSE_6389_homework
-Project 1 -- 3D CNN on structural MRI
+Project 1 -- 3D CNN on structural MRI  
+
 Project 2 -- GCN on brain connectivity  
 
 Please find below: 
