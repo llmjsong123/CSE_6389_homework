@@ -3,6 +3,8 @@ Project 1 -- 3D CNN on structural MRI
 
 Project 2 -- GCN on brain connectivity  
 
+Project 3 -- RNN on resting-state fMRI time series
+
 Please find below: 
 - Project 1 [Here](https://github.com/llmjsong123/CSE_6389_homework/blob/188d45098d945e1825301b964769265b51eddb65/Project1.ipynb)
 
